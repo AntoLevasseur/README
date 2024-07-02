@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🙋🏻‍♂ My name is Samuel and I'm a 23 years old Data Scientist Junior from Paris
+- 🙋🏻‍♂ My name is Antonin and I'm a 23 years old Data Scientist Junior from Paris
 
 - 👨🏻‍💻 Currently working for AXA in the savings and pensions department
 
